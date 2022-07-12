@@ -1,0 +1,21 @@
+#header {
+  border: '0';
+  width: '100%';
+  background-color: '#4CAF50';
+}
+
+#hobbies {
+  background-color: aqua;
+}
+
+#skills {
+  background-color: black;
+}
+
+#contact {
+  background-color: coral;
+}
+
+#social {
+  background-color: #ffffff;
+}
